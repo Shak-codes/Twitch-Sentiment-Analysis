@@ -1,2 +1,5 @@
-# Twitch-Sentiment-Analysis
-Numerous BERT models for sentiment analysis across varying Twitch channels
+<h1 align="center">Twitch-Sentiment-Analysis</h1>
+
+&nbsp;&nbsp;&nbsp;&nbsp;**1. Introduction.** The purpose of this analysis is to aid my Twitch Classifier report. That report handles predicting the channel origin of messages given their pairwise letter combination frequency. If you're unfamiliar with Twitch, they are a live streaming service where creators broadcast content on their own Twitch channel while interacting with viewers in real time through chat. The report explains motivation behind these predictions. Essentially, each Twitch channel fosters their own community with distinct tone and quirks in their messaging. Intuitively this makes sense, because different channels attract different types of viewers and these communities naturally develop their own linguistic patterns. However this intuitive understanding lacks any statistical evidence to actually support the belief. This is where sentiment analysis comes into play. We aim to create our own models that can accurately determine the sentiment of the various channels within the RDC group, and hope to extend this to other channels to validate our hypothesis that each channel's community exhibits a unique communication style reflected in their chat communication.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**2. Methodology.**
